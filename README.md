@@ -11,3 +11,4 @@ Project Aplikasi = https://youtu.be/2J6NM6CwS9s
 UI/UX = https://youtu.be/0eNr3lQOb6k?si=GduylUhtlTjW2VMX
 
 
+# Link ClickUp: https://app.clickup.com/90181773972/v/wb/2kzm1amm-618
